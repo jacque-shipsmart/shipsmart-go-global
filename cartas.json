@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "bonus",
+    "mensagem": "Voc\u00ea integrou com a ShipSmart \u2013 avance 3 casas!",
+    "movimento": 3
+  },
+  {
+    "tipo": "bonus",
+    "mensagem": "Campanha internacional performou bem \u2013 avance 2 casas!",
+    "movimento": 2
+  },
+  {
+    "tipo": "bonus",
+    "mensagem": "Frete entregue antes do prazo \u2013 avance 1 casa!",
+    "movimento": 1
+  },
+  {
+    "tipo": "rev\u00e9s",
+    "mensagem": "Nota fiscal incorreta gerou atraso \u2013 volte 2 casas!",
+    "movimento": -2
+  },
+  {
+    "tipo": "rev\u00e9s",
+    "mensagem": "Envio parado por erro de HS Code \u2013 volte 3 casas!",
+    "movimento": -3
+  },
+  {
+    "tipo": "rev\u00e9s",
+    "mensagem": "Checkout sem meio de pagamento internacional \u2013 volte 2 casas!",
+    "movimento": -2
+  }
+]
