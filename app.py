@@ -2,7 +2,7 @@
 import streamlit as st
 import random
 import json
-from utils import game_logic
+import game_logic
 
 # --- Configuração da página ---
 st.set_page_config(
